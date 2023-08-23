@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Juan Sebastián Martínez</h1>
 <h3 align="center">I am a Systems Engineer and Software Programming Technician with advanced software development skills, i perform with ease in problem solving, applying the knowledge acquired in different areas of knowledge. I am a dynamic, proactive, collaborative, responsible and with a high sense of belonging to the institutions to which I belong.</h3>
 
+- 📫 How to reach me **martinezjuanse@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/juan-sebastian-martinez-martinez/overlay/1635514550319/single-media-viewer/?profileId=ACoAACsz9l8BS4YRkrmeZhDgG3ajIpIfYf5-vSA](https://www.linkedin.com/in/juan-sebastian-martinez-martinez/overlay/1635514550319/single-media-viewer/?profileId=ACoAACsz9l8BS4YRkrmeZhDgG3ajIpIfYf5-vSA)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/juan-sebastian-martinez-martinez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-sebastian-martinez-martinez" height="30" width="40" /></a>
